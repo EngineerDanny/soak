@@ -1,0 +1,21 @@
+{
+  "columns": 11,
+  "features": [
+    "row_id",
+    "MedInc",
+    "HouseAge",
+    "AveRooms",
+    "AveBedrms",
+    "Population",
+    "AveOccup",
+    "Latitude",
+    "Longitude"
+  ],
+  "label": "label",
+  "license": "CC BY 4.0 (Pace and Barry, 1997)",
+  "n_subsets": 100,
+  "name": "california_housing",
+  "rows": 20640,
+  "source_url": "https://scikit-learn.org/stable/modules/generated/sklearn.datasets.fetch_california_housing.html",
+  "subset_key": "subset_key"
+}
