@@ -1,0 +1,24 @@
+{
+  "columns": 14,
+  "features": [
+    "timestamp",
+    "year",
+    "month",
+    "day",
+    "hour",
+    "dew_point",
+    "temperature",
+    "pressure",
+    "wind_direction",
+    "wind_speed",
+    "cum_hours_pollution",
+    "cum_hours_rain"
+  ],
+  "label": "pm25",
+  "license": "UCI Machine Learning Repository Terms of Use",
+  "n_subsets": 1,
+  "name": "beijing_multi_site_air_quality",
+  "rows": 43824,
+  "source_url": "https://archive.ics.uci.edu/static/public/381/beijing+pm2+5+data.zip",
+  "subset_key": "subset_key"
+}
