@@ -1,0 +1,25 @@
+{
+  "columns": 15,
+  "features": [
+    "timestamp",
+    "season",
+    "year_index",
+    "month",
+    "hour",
+    "holiday",
+    "weekday",
+    "workingday",
+    "weather_situation",
+    "temp",
+    "atemp",
+    "humidity",
+    "windspeed"
+  ],
+  "label": "rides",
+  "license": "UCI Machine Learning Repository Terms of Use",
+  "n_subsets": 4,
+  "name": "bike_sharing",
+  "rows": 17379,
+  "source_url": "https://archive.ics.uci.edu/static/public/275/bike+sharing+dataset.zip",
+  "subset_key": "subset_key"
+}
